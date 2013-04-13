@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">De.vogella.android.temperature</string>
+    <string name="fehrenheit">to Fehrenheit</string>
+    <string name="calc">Calculate</string>
+    <string name="celcius">to Celcius</string>
+    <string name="myColor">#3399CC</string>
+</resources>
