@@ -5,5 +5,5 @@
     <string name="fehrenheit">to Fehrenheit</string>
     <string name="calc">Calculate</string>
     <string name="celcius">to Celcius</string>
-    <string name="myColor">#3399CC</string>
+    <color name="myColor">#666666</color>
 </resources>
